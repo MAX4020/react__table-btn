@@ -1,5 +1,6 @@
 import { useContext, useState, useRef, useEffect } from "react";
 import { MainContextValues } from "../context/MainContext";
+import Modal from "../comp/Modal";
 import Btn from "../comp/Btn";
 import "../style/Main.css"
 

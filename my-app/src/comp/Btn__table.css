@@ -1,0 +1,25 @@
+.btn__table{
+  width: 90%;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #909090;
+  border: none;
+  border-radius: 5px;
+  font-size: 24px;
+  color: #262626;
+  margin-left: 17px;
+  margin-right: 17px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.btn__table:hover{
+  background-color: #808080;
+  transition: 0.5s;
+}
+.btn__table__flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
